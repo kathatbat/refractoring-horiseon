@@ -4,4 +4,4 @@ This is the Module 1 Challenge of refactoring starter code. An important part of
 
 ![website img](./assets/images/horiseon.png)
 
-deployed link
+https://kathatbat.github.io/refractoring-horiseon/
